@@ -5,3 +5,4 @@
 源码中
 url 表示目标地址
 threadCount 最大线程数
+扫描完成以后保存文件到result.txt中
